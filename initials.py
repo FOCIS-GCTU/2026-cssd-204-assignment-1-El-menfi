@@ -1,19 +1,22 @@
-#File:initials.py
-#Description:Prints out the initials of my name (Elorm Mensah Fiavor)
-#Assignment Number:1
+# File: initials.py
+# Description: Print out my initials of my name (Elorm Mensah Fiavor).
+# Assignment Number: 1
 #
-#Name:Elorm Mensah Fiavor
-#STUDENT ID:2425402803
-#Email:2425402803@live.gctu.edu.gh
-#Grader:Mr.Augustus Buckman
+# Name: Elorm Mensah
+# STUDENT ID: 2425402803
+# Email: 2425402803@live.gctu.edu.gh
+# Grader: Augustus Buckman
 #
-#On my honor,Elorm Mensah Fiavor, this programming assignment is my own work
-#and I have not provided this code to any other student.
+# On my honor, Elorm Mensah, this programming assignment is my own work
+# and I have not provided this code to any other student.
+
+
 
 def main():
-    #the codes below will print my initials (E.M.F) in sytlish large letters
+    # This program prints my initials in stylized large letters
+
     print()
-    print('...EMF')
+    print("...EMF")
     print()
 
     print('...EEEEEEEEEEEE........MMMM....MMMM........FFFFFFFFFFFF.....')
@@ -27,5 +30,7 @@ def main():
     print('...EEEEEEEEEEEE...**...MM...MM...MM...**...FFFFF..........**')
     print('...EEEEEEEEEEEE...**...MM...MM...MM...**...FFFFF..........**')
 
-    main()
-    
+    print()
+
+
+main()

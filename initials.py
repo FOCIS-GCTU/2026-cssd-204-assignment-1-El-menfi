@@ -8,7 +8,7 @@
 #Grader:Mr.Augustus Buckman
 #
 #On my honor,Elorm Mensah Fiavor, this programming assignment is my own work
-#and I have not provided this code to any other student.
+#and I have not provided this code to any other student
 
 def main():
     #the codes below will print my initials (E.M.F) in sytlish large letters
